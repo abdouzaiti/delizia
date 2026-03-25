@@ -1,0 +1,5 @@
+{
+  "name": "Delizia Pizza – Italian Wood-Fired Restaurant",
+  "description": "A premium, modern, animated restaurant website for Delizia Pizza in Mostaganem, Algeria.",
+  "requestFramePermissions": ["geolocation"]
+}
